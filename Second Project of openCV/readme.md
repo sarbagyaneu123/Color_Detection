@@ -65,7 +65,8 @@ Place your screenshots here showing the webcam window and BGR value display.
 
 ## Screenshots
 
-![Webcam BGR Display](/screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/7b7dc655-d7c8-4255-b0f9-a8e9d13d8a54)
+
 
 ---
 
